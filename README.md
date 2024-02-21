@@ -1,2 +1,2 @@
 # RatRoyales_VRGame
-My Individual Immersive Game
+my individual immersive game for GIMM
